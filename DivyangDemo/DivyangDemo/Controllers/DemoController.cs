@@ -13,7 +13,7 @@ using Newtonsoft.Json;
 namespace DivyangDemo.Controllers
 {
     /// <summary>
-    /// /http://shazwazza.com/post/uploading-files-and-json-data-in-the-same-request-with-angular-js/
+    /// 
     /// </summary>
     public class DemoController : ApiController
     {
